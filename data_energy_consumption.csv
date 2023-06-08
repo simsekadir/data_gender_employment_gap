@@ -1,4 +1,4 @@
-"FeatureCode","FeatureName","FeatureType","DateCode","Measurement","Units","Value","Energy Type","Energy Consuming Sector"
+"FeatureCode","City","FeatureType","Year","Measurement","Units","Value","Energy Type","Energy Consuming Sector"
 "S12000038","Renfrewshire","Council Area",2015,"Count","GWh",4.911,"Bioenergy & Wastes","Domestic"
 "S12000041","Angus","Council Area",2015,"Count","GWh",1.615,"Petroleum Products","Commercial"
 "S12000049","Glasgow City","Council Area",2015,"Count","GWh",0,"Bioenergy & Wastes","Commercial"
