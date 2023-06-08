@@ -1,4 +1,4 @@
-"FeatureCode","FeatureName","FeatureType","DateCode","Measurement","Units","Age","Value"
+"FeatureCode","City","FeatureType","Year","Measurement","Units","Age","Value"
 "S12000033","Aberdeen City","Council Area","2015","Percentage Points","Percentage Points Difference","16-24 years",-23.125
 "S12000034","Aberdeenshire","Council Area","2015","Percentage Points","Percentage Points Difference","16-24 years",-9.5
 "S12000041","Angus","Council Area","2015","Percentage Points","Percentage Points Difference","16-24 years",4.15
