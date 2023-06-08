@@ -1,0 +1,758 @@
+"","FeatureName","DateCode","Age","Value"
+"1","Aberdeen City",2015,"16-24 years",-23.125
+"2","Aberdeenshire",2015,"16-24 years",-9.5
+"3","Angus",2015,"16-24 years",4.15
+"4","Argyll and Bute",2015,"16-24 years",0.325
+"5","City of Edinburgh",2015,"16-24 years",-13.875
+"6","Clackmannanshire",2015,"16-24 years",9.7
+"7","Dumfries and Galloway",2015,"16-24 years",-0.35
+"8","Dundee City",2015,"16-24 years",5.5
+"9","East Ayrshire",2015,"16-24 years",-15.975
+"10","East Dunbartonshire",2015,"16-24 years",-5.4
+"11","East Lothian",2015,"16-24 years",2.65
+"12","East Renfrewshire",2015,"16-24 years",11.775
+"13","Falkirk",2015,"16-24 years",5.775
+"14","Fife",2015,"16-24 years",2.25
+"15","Glasgow City",2015,"16-24 years",-3.675
+"16","Highland",2015,"16-24 years",5.275
+"17","Inverclyde",2015,"16-24 years",-2.6
+"18","Midlothian",2015,"16-24 years",-5.825
+"19","Moray",2015,"16-24 years",-7.4
+"20","North Ayrshire",2015,"16-24 years",-6.025
+"21","North Lanarkshire",2015,"16-24 years",-7.9
+"22","Orkney Islands",2015,"16-24 years",3.1
+"23","Perth and Kinross",2015,"16-24 years",-11.925
+"24","Renfrewshire",2015,"16-24 years",-2.575
+"25","Scottish Borders",2015,"16-24 years",3.75
+"26","Shetland Islands",2015,"16-24 years",13.4
+"27","South Ayrshire",2015,"16-24 years",7.275
+"28","South Lanarkshire",2015,"16-24 years",-3.775
+"29","Stirling",2015,"16-24 years",-3.35
+"30","West Dunbartonshire",2015,"16-24 years",-0.5
+"31","West Lothian",2015,"16-24 years",1.575
+"32","Aberdeen City",2016,"16-24 years",-12.45
+"33","Aberdeenshire",2016,"16-24 years",4.275
+"34","Angus",2016,"16-24 years",-15.425
+"35","Argyll and Bute",2016,"16-24 years",6.375
+"36","City of Edinburgh",2016,"16-24 years",-3.13333333333333
+"37","Dumfries and Galloway",2016,"16-24 years",6.075
+"38","Dundee City",2016,"16-24 years",-12.175
+"39","East Ayrshire",2016,"16-24 years",1.775
+"40","East Dunbartonshire",2016,"16-24 years",-3.525
+"41","East Lothian",2016,"16-24 years",14.95
+"42","East Renfrewshire",2016,"16-24 years",-8.675
+"43","Falkirk",2016,"16-24 years",6.975
+"44","Fife",2016,"16-24 years",-7.3
+"45","Glasgow City",2016,"16-24 years",8.2
+"46","Highland",2016,"16-24 years",-16.125
+"47","Inverclyde",2016,"16-24 years",10.325
+"48","Midlothian",2016,"16-24 years",-3.06666666666667
+"49","Moray",2016,"16-24 years",-4.45
+"50","North Ayrshire",2016,"16-24 years",9
+"51","North Lanarkshire",2016,"16-24 years",-13.175
+"52","Orkney Islands",2016,"16-24 years",-2.4
+"53","Perth and Kinross",2016,"16-24 years",-13
+"54","Renfrewshire",2016,"16-24 years",-8.6
+"55","Scottish Borders",2016,"16-24 years",5.425
+"56","Shetland Islands",2016,"16-24 years",-13.9
+"57","South Ayrshire",2016,"16-24 years",-8.7
+"58","South Lanarkshire",2016,"16-24 years",-4.35
+"59","Stirling",2016,"16-24 years",-5.025
+"60","West Dunbartonshire",2016,"16-24 years",-1.65
+"61","West Lothian",2016,"16-24 years",7.6
+"62","Aberdeen City",2017,"16-24 years",7.8
+"63","Aberdeenshire",2017,"16-24 years",3.75
+"64","Angus",2017,"16-24 years",-8.125
+"65","Argyll and Bute",2017,"16-24 years",-4.625
+"66","City of Edinburgh",2017,"16-24 years",-11.55
+"67","Clackmannanshire",2017,"16-24 years",-10.1666666666667
+"68","Dumfries and Galloway",2017,"16-24 years",10.475
+"69","Dundee City",2017,"16-24 years",-20.925
+"70","East Ayrshire",2017,"16-24 years",-1.2
+"71","East Dunbartonshire",2017,"16-24 years",0.7
+"72","East Lothian",2017,"16-24 years",2.025
+"73","East Renfrewshire",2017,"16-24 years",-7.225
+"74","Falkirk",2017,"16-24 years",7.15
+"75","Fife",2017,"16-24 years",5.525
+"76","Glasgow City",2017,"16-24 years",5.525
+"77","Highland",2017,"16-24 years",-14.7
+"78","Inverclyde",2017,"16-24 years",1.825
+"79","Midlothian",2017,"16-24 years",7.925
+"80","Moray",2017,"16-24 years",1.35
+"81","Na h-Eileanan Siar",2017,"16-24 years",-6.3
+"82","North Ayrshire",2017,"16-24 years",8.525
+"83","North Lanarkshire",2017,"16-24 years",-7.325
+"84","Perth and Kinross",2017,"16-24 years",5.3
+"85","Renfrewshire",2017,"16-24 years",-9.025
+"86","Scottish Borders",2017,"16-24 years",1.025
+"87","South Ayrshire",2017,"16-24 years",-3.2
+"88","South Lanarkshire",2017,"16-24 years",5.6
+"89","Stirling",2017,"16-24 years",5.025
+"90","West Dunbartonshire",2017,"16-24 years",-2.225
+"91","West Lothian",2017,"16-24 years",-0.825
+"92","Aberdeen City",2018,"16-24 years",19.675
+"93","Aberdeenshire",2018,"16-24 years",19.2333333333333
+"94","Angus",2018,"16-24 years",-1.025
+"95","Argyll and Bute",2018,"16-24 years",-4.15
+"96","City of Edinburgh",2018,"16-24 years",6.925
+"97","Clackmannanshire",2018,"16-24 years",5
+"98","Dumfries and Galloway",2018,"16-24 years",10.075
+"99","Dundee City",2018,"16-24 years",-5.275
+"100","East Ayrshire",2018,"16-24 years",5.75
+"101","East Dunbartonshire",2018,"16-24 years",-2.175
+"102","East Lothian",2018,"16-24 years",0.35
+"103","East Renfrewshire",2018,"16-24 years",-4.9
+"104","Falkirk",2018,"16-24 years",-0.0249999999999999
+"105","Fife",2018,"16-24 years",7.875
+"106","Glasgow City",2018,"16-24 years",12.875
+"107","Highland",2018,"16-24 years",-2.175
+"108","Inverclyde",2018,"16-24 years",9.5
+"109","Midlothian",2018,"16-24 years",2.05
+"110","Moray",2018,"16-24 years",14.775
+"111","Na h-Eileanan Siar",2018,"16-24 years",-10.075
+"112","North Ayrshire",2018,"16-24 years",16.025
+"113","North Lanarkshire",2018,"16-24 years",-2.1
+"114","Perth and Kinross",2018,"16-24 years",4.8
+"115","Renfrewshire",2018,"16-24 years",11.75
+"116","Scottish Borders",2018,"16-24 years",3.8
+"117","South Ayrshire",2018,"16-24 years",-2.2
+"118","South Lanarkshire",2018,"16-24 years",-6.325
+"119","Stirling",2018,"16-24 years",-1.5
+"120","West Dunbartonshire",2018,"16-24 years",-8.75
+"121","West Lothian",2018,"16-24 years",2.625
+"122","Aberdeen City",2019,"16-24 years",13.45
+"123","Aberdeenshire",2019,"16-24 years",-13.075
+"124","Angus",2019,"16-24 years",5.55
+"125","Argyll and Bute",2019,"16-24 years",10.55
+"126","City of Edinburgh",2019,"16-24 years",13.5
+"127","Clackmannanshire",2019,"16-24 years",-10.45
+"128","Dumfries and Galloway",2019,"16-24 years",-0.575
+"129","Dundee City",2019,"16-24 years",-12.425
+"130","East Ayrshire",2019,"16-24 years",-8.525
+"131","East Dunbartonshire",2019,"16-24 years",-5.525
+"132","East Lothian",2019,"16-24 years",0.925
+"133","East Renfrewshire",2019,"16-24 years",-0.6
+"134","Falkirk",2019,"16-24 years",4.075
+"135","Fife",2019,"16-24 years",10.925
+"136","Glasgow City",2019,"16-24 years",-2.625
+"137","Highland",2019,"16-24 years",18.1
+"138","Inverclyde",2019,"16-24 years",5.825
+"139","Midlothian",2019,"16-24 years",-4.7
+"140","Moray",2019,"16-24 years",-3.075
+"141","Na h-Eileanan Siar",2019,"16-24 years",-2.1
+"142","North Ayrshire",2019,"16-24 years",7.23333333333333
+"143","North Lanarkshire",2019,"16-24 years",-13.725
+"144","Orkney Islands",2019,"16-24 years",0
+"145","Perth and Kinross",2019,"16-24 years",2.875
+"146","Renfrewshire",2019,"16-24 years",-0.35
+"147","Scottish Borders",2019,"16-24 years",-6.7
+"148","South Ayrshire",2019,"16-24 years",-2.5
+"149","South Lanarkshire",2019,"16-24 years",-7.625
+"150","Stirling",2019,"16-24 years",4.875
+"151","West Dunbartonshire",2019,"16-24 years",-11.3
+"152","West Lothian",2019,"16-24 years",-4.975
+"153","Aberdeen City",2020,"16-24 years",3.1
+"154","Aberdeenshire",2020,"16-24 years",-23.1
+"155","Angus",2020,"16-24 years",11.5
+"156","Argyll and Bute",2020,"16-24 years",15.4
+"157","City of Edinburgh",2020,"16-24 years",4.1
+"158","Clackmannanshire",2020,"16-24 years",-25.3
+"159","Dumfries and Galloway",2020,"16-24 years",21
+"160","Dundee City",2020,"16-24 years",-16.4
+"161","East Ayrshire",2020,"16-24 years",9.7
+"162","East Dunbartonshire",2020,"16-24 years",-18.4
+"163","East Lothian",2020,"16-24 years",14.2
+"164","East Renfrewshire",2020,"16-24 years",5.5
+"165","Falkirk",2020,"16-24 years",13.6
+"166","Fife",2020,"16-24 years",2.9
+"167","Glasgow City",2020,"16-24 years",-3.8
+"168","Highland",2020,"16-24 years",1
+"169","Inverclyde",2020,"16-24 years",2.3
+"170","Midlothian",2020,"16-24 years",-20.7
+"171","Moray",2020,"16-24 years",-3
+"172","Na h-Eileanan Siar",2020,"16-24 years",-14
+"173","North Ayrshire",2020,"16-24 years",16.9
+"174","North Lanarkshire",2020,"16-24 years",0.5
+"175","Perth and Kinross",2020,"16-24 years",-4.7
+"176","Renfrewshire",2020,"16-24 years",-10.6
+"177","Scottish Borders",2020,"16-24 years",-14.5
+"178","South Ayrshire",2020,"16-24 years",16.4
+"179","South Lanarkshire",2020,"16-24 years",2
+"180","Stirling",2020,"16-24 years",11.1
+"181","West Dunbartonshire",2020,"16-24 years",-9.9
+"182","West Lothian",2020,"16-24 years",1.1
+"183","Aberdeen City",2015,"16-64 years",0.475
+"184","Aberdeenshire",2015,"16-64 years",13.2
+"185","Angus",2015,"16-64 years",8.875
+"186","Argyll and Bute",2015,"16-64 years",4.7
+"187","City of Edinburgh",2015,"16-64 years",3.15
+"188","Clackmannanshire",2015,"16-64 years",14.025
+"189","Dumfries and Galloway",2015,"16-64 years",7
+"190","Dundee City",2015,"16-64 years",7.95
+"191","East Ayrshire",2015,"16-64 years",3.375
+"192","East Dunbartonshire",2015,"16-64 years",6.3
+"193","East Lothian",2015,"16-64 years",7.525
+"194","East Renfrewshire",2015,"16-64 years",9.325
+"195","Falkirk",2015,"16-64 years",8.15
+"196","Fife",2015,"16-64 years",7.275
+"197","Glasgow City",2015,"16-64 years",5.725
+"198","Highland",2015,"16-64 years",11.15
+"199","Inverclyde",2015,"16-64 years",2.525
+"200","Midlothian",2015,"16-64 years",0.975
+"201","Moray",2015,"16-64 years",11.025
+"202","Na h-Eileanan Siar",2015,"16-64 years",-0.6
+"203","North Ayrshire",2015,"16-64 years",9.525
+"204","North Lanarkshire",2015,"16-64 years",4.25
+"205","Orkney Islands",2015,"16-64 years",7.3
+"206","Perth and Kinross",2015,"16-64 years",3.5
+"207","Renfrewshire",2015,"16-64 years",0.85
+"208","Scottish Borders",2015,"16-64 years",6.55
+"209","Shetland Islands",2015,"16-64 years",12.375
+"210","South Ayrshire",2015,"16-64 years",7.675
+"211","South Lanarkshire",2015,"16-64 years",9.15
+"212","Stirling",2015,"16-64 years",8.025
+"213","West Dunbartonshire",2015,"16-64 years",3.175
+"214","West Lothian",2015,"16-64 years",7.775
+"215","Aberdeen City",2016,"16-64 years",3.175
+"216","Aberdeenshire",2016,"16-64 years",13.8
+"217","Angus",2016,"16-64 years",6.975
+"218","Argyll and Bute",2016,"16-64 years",6.875
+"219","City of Edinburgh",2016,"16-64 years",8.425
+"220","Clackmannanshire",2016,"16-64 years",11.775
+"221","Dumfries and Galloway",2016,"16-64 years",11.45
+"222","Dundee City",2016,"16-64 years",-1.575
+"223","East Ayrshire",2016,"16-64 years",9.4
+"224","East Dunbartonshire",2016,"16-64 years",6.425
+"225","East Lothian",2016,"16-64 years",9.025
+"226","East Renfrewshire",2016,"16-64 years",5.375
+"227","Falkirk",2016,"16-64 years",10.05
+"228","Fife",2016,"16-64 years",8.55
+"229","Glasgow City",2016,"16-64 years",8.125
+"230","Highland",2016,"16-64 years",2.825
+"231","Inverclyde",2016,"16-64 years",-0.275
+"232","Midlothian",2016,"16-64 years",6.825
+"233","Moray",2016,"16-64 years",10.2
+"234","Na h-Eileanan Siar",2016,"16-64 years",5.3
+"235","North Ayrshire",2016,"16-64 years",13.525
+"236","North Lanarkshire",2016,"16-64 years",5.525
+"237","Orkney Islands",2016,"16-64 years",-7.325
+"238","Perth and Kinross",2016,"16-64 years",3.125
+"239","Renfrewshire",2016,"16-64 years",1.925
+"240","Scottish Borders",2016,"16-64 years",10.55
+"241","Shetland Islands",2016,"16-64 years",0.15
+"242","South Ayrshire",2016,"16-64 years",5.3
+"243","South Lanarkshire",2016,"16-64 years",6.175
+"244","Stirling",2016,"16-64 years",3.825
+"245","West Dunbartonshire",2016,"16-64 years",5.625
+"246","West Lothian",2016,"16-64 years",9.775
+"247","Aberdeen City",2017,"16-64 years",6.375
+"248","Aberdeenshire",2017,"16-64 years",10.9
+"249","Angus",2017,"16-64 years",6.725
+"250","Argyll and Bute",2017,"16-64 years",8.4
+"251","City of Edinburgh",2017,"16-64 years",4.325
+"252","Clackmannanshire",2017,"16-64 years",5.1
+"253","Dumfries and Galloway",2017,"16-64 years",13.05
+"254","Dundee City",2017,"16-64 years",-4.95
+"255","East Ayrshire",2017,"16-64 years",9.05
+"256","East Dunbartonshire",2017,"16-64 years",7
+"257","East Lothian",2017,"16-64 years",5.5
+"258","East Renfrewshire",2017,"16-64 years",10.7
+"259","Falkirk",2017,"16-64 years",11.325
+"260","Fife",2017,"16-64 years",11.9
+"261","Glasgow City",2017,"16-64 years",7.625
+"262","Highland",2017,"16-64 years",2.375
+"263","Inverclyde",2017,"16-64 years",2.05
+"264","Midlothian",2017,"16-64 years",6.775
+"265","Moray",2017,"16-64 years",8.1
+"266","Na h-Eileanan Siar",2017,"16-64 years",5.925
+"267","North Ayrshire",2017,"16-64 years",9.7
+"268","North Lanarkshire",2017,"16-64 years",6.275
+"269","Orkney Islands",2017,"16-64 years",-0.0249999999999999
+"270","Perth and Kinross",2017,"16-64 years",5.125
+"271","Renfrewshire",2017,"16-64 years",0.9
+"272","Scottish Borders",2017,"16-64 years",8.625
+"273","Shetland Islands",2017,"16-64 years",-3.575
+"274","South Ayrshire",2017,"16-64 years",6.95
+"275","South Lanarkshire",2017,"16-64 years",8.025
+"276","Stirling",2017,"16-64 years",6.1
+"277","West Dunbartonshire",2017,"16-64 years",3.55
+"278","West Lothian",2017,"16-64 years",8.025
+"279","Aberdeen City",2018,"16-64 years",7.25
+"280","Aberdeenshire",2018,"16-64 years",10.875
+"281","Angus",2018,"16-64 years",4.45
+"282","Argyll and Bute",2018,"16-64 years",6.475
+"283","City of Edinburgh",2018,"16-64 years",10.2
+"284","Clackmannanshire",2018,"16-64 years",11.175
+"285","Dumfries and Galloway",2018,"16-64 years",10.8
+"286","Dundee City",2018,"16-64 years",3.15
+"287","East Ayrshire",2018,"16-64 years",8.6
+"288","East Dunbartonshire",2018,"16-64 years",7.9
+"289","East Lothian",2018,"16-64 years",8.45
+"290","East Renfrewshire",2018,"16-64 years",5.925
+"291","Falkirk",2018,"16-64 years",7.325
+"292","Fife",2018,"16-64 years",9
+"293","Glasgow City",2018,"16-64 years",10.15
+"294","Highland",2018,"16-64 years",-2.125
+"295","Inverclyde",2018,"16-64 years",2.9
+"296","Midlothian",2018,"16-64 years",3.125
+"297","Moray",2018,"16-64 years",13.175
+"298","Na h-Eileanan Siar",2018,"16-64 years",3.025
+"299","North Ayrshire",2018,"16-64 years",10.075
+"300","North Lanarkshire",2018,"16-64 years",6.125
+"301","Orkney Islands",2018,"16-64 years",8.95
+"302","Perth and Kinross",2018,"16-64 years",7.1
+"303","Renfrewshire",2018,"16-64 years",6.6
+"304","Scottish Borders",2018,"16-64 years",10.475
+"305","Shetland Islands",2018,"16-64 years",7.35
+"306","South Ayrshire",2018,"16-64 years",3.825
+"307","South Lanarkshire",2018,"16-64 years",3.475
+"308","Stirling",2018,"16-64 years",4.675
+"309","West Dunbartonshire",2018,"16-64 years",2.6
+"310","West Lothian",2018,"16-64 years",11.025
+"311","Aberdeen City",2019,"16-64 years",8.05
+"312","Aberdeenshire",2019,"16-64 years",8.25
+"313","Angus",2019,"16-64 years",3.625
+"314","Argyll and Bute",2019,"16-64 years",5.575
+"315","City of Edinburgh",2019,"16-64 years",11.35
+"316","Clackmannanshire",2019,"16-64 years",9.35
+"317","Dumfries and Galloway",2019,"16-64 years",6.825
+"318","Dundee City",2019,"16-64 years",2.7
+"319","East Ayrshire",2019,"16-64 years",6.15
+"320","East Dunbartonshire",2019,"16-64 years",3.925
+"321","East Lothian",2019,"16-64 years",10.2
+"322","East Renfrewshire",2019,"16-64 years",4.45
+"323","Falkirk",2019,"16-64 years",6.625
+"324","Fife",2019,"16-64 years",9.825
+"325","Glasgow City",2019,"16-64 years",3.35
+"326","Highland",2019,"16-64 years",2.85
+"327","Inverclyde",2019,"16-64 years",0.1
+"328","Midlothian",2019,"16-64 years",5.375
+"329","Moray",2019,"16-64 years",16.5
+"330","Na h-Eileanan Siar",2019,"16-64 years",-0.375
+"331","North Ayrshire",2019,"16-64 years",9.375
+"332","North Lanarkshire",2019,"16-64 years",3.425
+"333","Orkney Islands",2019,"16-64 years",13.9
+"334","Perth and Kinross",2019,"16-64 years",7.5
+"335","Renfrewshire",2019,"16-64 years",6.4
+"336","Scottish Borders",2019,"16-64 years",8.775
+"337","Shetland Islands",2019,"16-64 years",8.475
+"338","South Ayrshire",2019,"16-64 years",3.425
+"339","South Lanarkshire",2019,"16-64 years",4.35
+"340","Stirling",2019,"16-64 years",1.525
+"341","West Dunbartonshire",2019,"16-64 years",1.75
+"342","West Lothian",2019,"16-64 years",9.175
+"343","Aberdeen City",2020,"16-64 years",7.5
+"344","Aberdeenshire",2020,"16-64 years",8.3
+"345","Angus",2020,"16-64 years",7.4
+"346","Argyll and Bute",2020,"16-64 years",5.2
+"347","City of Edinburgh",2020,"16-64 years",8.3
+"348","Clackmannanshire",2020,"16-64 years",-1.6
+"349","Dumfries and Galloway",2020,"16-64 years",8.9
+"350","Dundee City",2020,"16-64 years",2.2
+"351","East Ayrshire",2020,"16-64 years",5.7
+"352","East Dunbartonshire",2020,"16-64 years",3.7
+"353","East Lothian",2020,"16-64 years",11.1
+"354","East Renfrewshire",2020,"16-64 years",6.7
+"355","Falkirk",2020,"16-64 years",5.7
+"356","Fife",2020,"16-64 years",9.6
+"357","Glasgow City",2020,"16-64 years",4.2
+"358","Highland",2020,"16-64 years",8.1
+"359","Inverclyde",2020,"16-64 years",1.8
+"360","Midlothian",2020,"16-64 years",3.6
+"361","Moray",2020,"16-64 years",11.9
+"362","Na h-Eileanan Siar",2020,"16-64 years",-3
+"363","North Ayrshire",2020,"16-64 years",12.6
+"364","North Lanarkshire",2020,"16-64 years",3.8
+"365","Orkney Islands",2020,"16-64 years",9.2
+"366","Perth and Kinross",2020,"16-64 years",10.7
+"367","Renfrewshire",2020,"16-64 years",4.7
+"368","Scottish Borders",2020,"16-64 years",7.6
+"369","Shetland Islands",2020,"16-64 years",9.3
+"370","South Ayrshire",2020,"16-64 years",8.1
+"371","South Lanarkshire",2020,"16-64 years",6.8
+"372","Stirling",2020,"16-64 years",2.6
+"373","West Dunbartonshire",2020,"16-64 years",1.3
+"374","West Lothian",2020,"16-64 years",5.2
+"375","Aberdeen City",2015,"25-49 years",4.7
+"376","Aberdeenshire",2015,"25-49 years",15.775
+"377","Angus",2015,"25-49 years",9.95
+"378","Argyll and Bute",2015,"25-49 years",10.15
+"379","City of Edinburgh",2015,"25-49 years",10.1
+"380","Clackmannanshire",2015,"25-49 years",19.625
+"381","Dumfries and Galloway",2015,"25-49 years",3.075
+"382","Dundee City",2015,"25-49 years",10.975
+"383","East Ayrshire",2015,"25-49 years",6.2
+"384","East Dunbartonshire",2015,"25-49 years",6.8
+"385","East Lothian",2015,"25-49 years",10.475
+"386","East Renfrewshire",2015,"25-49 years",8.2
+"387","Falkirk",2015,"25-49 years",8.975
+"388","Fife",2015,"25-49 years",9.45
+"389","Glasgow City",2015,"25-49 years",7.925
+"390","Highland",2015,"25-49 years",13.575
+"391","Inverclyde",2015,"25-49 years",4.625
+"392","Midlothian",2015,"25-49 years",6.85
+"393","Moray",2015,"25-49 years",13.825
+"394","Na h-Eileanan Siar",2015,"25-49 years",-3.4
+"395","North Ayrshire",2015,"25-49 years",12.525
+"396","North Lanarkshire",2015,"25-49 years",5.875
+"397","Orkney Islands",2015,"25-49 years",8.225
+"398","Perth and Kinross",2015,"25-49 years",4.15
+"399","Renfrewshire",2015,"25-49 years",0.075
+"400","Scottish Borders",2015,"25-49 years",8.125
+"401","Shetland Islands",2015,"25-49 years",14.15
+"402","South Ayrshire",2015,"25-49 years",10.5
+"403","South Lanarkshire",2015,"25-49 years",10.1
+"404","Stirling",2015,"25-49 years",9.425
+"405","West Dunbartonshire",2015,"25-49 years",5.125
+"406","West Lothian",2015,"25-49 years",7.15
+"407","Aberdeen City",2016,"25-49 years",3.475
+"408","Aberdeenshire",2016,"25-49 years",15.125
+"409","Angus",2016,"25-49 years",10.925
+"410","Argyll and Bute",2016,"25-49 years",8.825
+"411","City of Edinburgh",2016,"25-49 years",15.65
+"412","Clackmannanshire",2016,"25-49 years",15.6
+"413","Dumfries and Galloway",2016,"25-49 years",7.125
+"414","Dundee City",2016,"25-49 years",-2.7
+"415","East Ayrshire",2016,"25-49 years",9.35
+"416","East Dunbartonshire",2016,"25-49 years",7.875
+"417","East Lothian",2016,"25-49 years",12.475
+"418","East Renfrewshire",2016,"25-49 years",7.15
+"419","Falkirk",2016,"25-49 years",12.575
+"420","Fife",2016,"25-49 years",8.725
+"421","Glasgow City",2016,"25-49 years",6.25
+"422","Highland",2016,"25-49 years",5.675
+"423","Inverclyde",2016,"25-49 years",-2.875
+"424","Midlothian",2016,"25-49 years",11.3
+"425","Moray",2016,"25-49 years",13.35
+"426","Na h-Eileanan Siar",2016,"25-49 years",8.775
+"427","North Ayrshire",2016,"25-49 years",8.325
+"428","North Lanarkshire",2016,"25-49 years",5.975
+"429","Orkney Islands",2016,"25-49 years",-5.925
+"430","Perth and Kinross",2016,"25-49 years",2.725
+"431","Renfrewshire",2016,"25-49 years",6
+"432","Scottish Borders",2016,"25-49 years",13.75
+"433","Shetland Islands",2016,"25-49 years",10.625
+"434","South Ayrshire",2016,"25-49 years",9.225
+"435","South Lanarkshire",2016,"25-49 years",11.5
+"436","Stirling",2016,"25-49 years",2.325
+"437","West Dunbartonshire",2016,"25-49 years",9.225
+"438","West Lothian",2016,"25-49 years",7.7
+"439","Aberdeen City",2017,"25-49 years",9.125
+"440","Aberdeenshire",2017,"25-49 years",11.35
+"441","Angus",2017,"25-49 years",12.325
+"442","Argyll and Bute",2017,"25-49 years",11.075
+"443","City of Edinburgh",2017,"25-49 years",11.65
+"444","Clackmannanshire",2017,"25-49 years",8.625
+"445","Dumfries and Galloway",2017,"25-49 years",12.075
+"446","Dundee City",2017,"25-49 years",-2.2
+"447","East Ayrshire",2017,"25-49 years",10.05
+"448","East Dunbartonshire",2017,"25-49 years",9.975
+"449","East Lothian",2017,"25-49 years",5.15
+"450","East Renfrewshire",2017,"25-49 years",14.35
+"451","Falkirk",2017,"25-49 years",12.2
+"452","Fife",2017,"25-49 years",12.5
+"453","Glasgow City",2017,"25-49 years",7.825
+"454","Highland",2017,"25-49 years",5.675
+"455","Inverclyde",2017,"25-49 years",10.225
+"456","Midlothian",2017,"25-49 years",6.55
+"457","Moray",2017,"25-49 years",7.025
+"458","Na h-Eileanan Siar",2017,"25-49 years",3.675
+"459","North Ayrshire",2017,"25-49 years",7.7
+"460","North Lanarkshire",2017,"25-49 years",10.375
+"461","Orkney Islands",2017,"25-49 years",-7.825
+"462","Perth and Kinross",2017,"25-49 years",3.2
+"463","Renfrewshire",2017,"25-49 years",2.575
+"464","Scottish Borders",2017,"25-49 years",12.475
+"465","Shetland Islands",2017,"25-49 years",-9.5
+"466","South Ayrshire",2017,"25-49 years",13.4
+"467","South Lanarkshire",2017,"25-49 years",9.225
+"468","Stirling",2017,"25-49 years",6.625
+"469","West Dunbartonshire",2017,"25-49 years",7.625
+"470","West Lothian",2017,"25-49 years",11.525
+"471","Aberdeen City",2018,"25-49 years",5.975
+"472","Aberdeenshire",2018,"25-49 years",7.875
+"473","Angus",2018,"25-49 years",11.9
+"474","Argyll and Bute",2018,"25-49 years",10.625
+"475","City of Edinburgh",2018,"25-49 years",14.45
+"476","Clackmannanshire",2018,"25-49 years",12.25
+"477","Dumfries and Galloway",2018,"25-49 years",8.8
+"478","Dundee City",2018,"25-49 years",4
+"479","East Ayrshire",2018,"25-49 years",7.925
+"480","East Dunbartonshire",2018,"25-49 years",8.825
+"481","East Lothian",2018,"25-49 years",6.675
+"482","East Renfrewshire",2018,"25-49 years",7.5
+"483","Falkirk",2018,"25-49 years",6.85
+"484","Fife",2018,"25-49 years",11.075
+"485","Glasgow City",2018,"25-49 years",11.175
+"486","Highland",2018,"25-49 years",-6.625
+"487","Inverclyde",2018,"25-49 years",10.2
+"488","Midlothian",2018,"25-49 years",6
+"489","Moray",2018,"25-49 years",11.775
+"490","Na h-Eileanan Siar",2018,"25-49 years",7.025
+"491","North Ayrshire",2018,"25-49 years",7.4
+"492","North Lanarkshire",2018,"25-49 years",9.125
+"493","Orkney Islands",2018,"25-49 years",-4.175
+"494","Perth and Kinross",2018,"25-49 years",6.7
+"495","Renfrewshire",2018,"25-49 years",7.2
+"496","Scottish Borders",2018,"25-49 years",13.375
+"497","Shetland Islands",2018,"25-49 years",0.0500000000000002
+"498","South Ayrshire",2018,"25-49 years",5.375
+"499","South Lanarkshire",2018,"25-49 years",3.35
+"500","Stirling",2018,"25-49 years",5.475
+"501","West Dunbartonshire",2018,"25-49 years",5.275
+"502","West Lothian",2018,"25-49 years",16.175
+"503","Aberdeen City",2019,"25-49 years",7.175
+"504","Aberdeenshire",2019,"25-49 years",9.75
+"505","Angus",2019,"25-49 years",5
+"506","Argyll and Bute",2019,"25-49 years",1.8
+"507","City of Edinburgh",2019,"25-49 years",12.075
+"508","Clackmannanshire",2019,"25-49 years",6.475
+"509","Dumfries and Galloway",2019,"25-49 years",7.075
+"510","Dundee City",2019,"25-49 years",6.65
+"511","East Ayrshire",2019,"25-49 years",9.925
+"512","East Dunbartonshire",2019,"25-49 years",6.05
+"513","East Lothian",2019,"25-49 years",15.15
+"514","East Renfrewshire",2019,"25-49 years",9.4
+"515","Falkirk",2019,"25-49 years",8.375
+"516","Fife",2019,"25-49 years",8.525
+"517","Glasgow City",2019,"25-49 years",5.525
+"518","Highland",2019,"25-49 years",-8.5
+"519","Inverclyde",2019,"25-49 years",6.8
+"520","Midlothian",2019,"25-49 years",8.775
+"521","Moray",2019,"25-49 years",22.525
+"522","Na h-Eileanan Siar",2019,"25-49 years",3.425
+"523","North Ayrshire",2019,"25-49 years",9.675
+"524","North Lanarkshire",2019,"25-49 years",7.825
+"525","Orkney Islands",2019,"25-49 years",7.175
+"526","Perth and Kinross",2019,"25-49 years",6.85
+"527","Renfrewshire",2019,"25-49 years",7.4
+"528","Scottish Borders",2019,"25-49 years",8.9
+"529","Shetland Islands",2019,"25-49 years",3
+"530","South Ayrshire",2019,"25-49 years",2.6
+"531","South Lanarkshire",2019,"25-49 years",6.8
+"532","Stirling",2019,"25-49 years",0.2
+"533","West Dunbartonshire",2019,"25-49 years",3.4
+"534","West Lothian",2019,"25-49 years",8.8
+"535","Aberdeen City",2020,"25-49 years",10.3
+"536","Aberdeenshire",2020,"25-49 years",10.7
+"537","Angus",2020,"25-49 years",3.5
+"538","Argyll and Bute",2020,"25-49 years",3.4
+"539","City of Edinburgh",2020,"25-49 years",11.5
+"540","Clackmannanshire",2020,"25-49 years",-0.6
+"541","Dumfries and Galloway",2020,"25-49 years",6.7
+"542","Dundee City",2020,"25-49 years",6.3
+"543","East Ayrshire",2020,"25-49 years",10.1
+"544","East Dunbartonshire",2020,"25-49 years",10.6
+"545","East Lothian",2020,"25-49 years",7.4
+"546","East Renfrewshire",2020,"25-49 years",6.1
+"547","Falkirk",2020,"25-49 years",3.2
+"548","Fife",2020,"25-49 years",6.9
+"549","Glasgow City",2020,"25-49 years",7.6
+"550","Highland",2020,"25-49 years",3.2
+"551","Inverclyde",2020,"25-49 years",7.2
+"552","Midlothian",2020,"25-49 years",8.8
+"553","Moray",2020,"25-49 years",18.7
+"554","Na h-Eileanan Siar",2020,"25-49 years",4.5
+"555","North Ayrshire",2020,"25-49 years",15
+"556","North Lanarkshire",2020,"25-49 years",5.3
+"557","Orkney Islands",2020,"25-49 years",-2.2
+"558","Perth and Kinross",2020,"25-49 years",10.3
+"559","Renfrewshire",2020,"25-49 years",7.2
+"560","Scottish Borders",2020,"25-49 years",12.4
+"561","South Ayrshire",2020,"25-49 years",6.8
+"562","South Lanarkshire",2020,"25-49 years",5.5
+"563","Stirling",2020,"25-49 years",3.1
+"564","West Dunbartonshire",2020,"25-49 years",3.5
+"565","West Lothian",2020,"25-49 years",5
+"566","Aberdeen City",2015,"50-64 years",8.825
+"567","Aberdeenshire",2015,"50-64 years",19.825
+"568","Angus",2015,"50-64 years",10.4
+"569","Argyll and Bute",2015,"50-64 years",3.2
+"570","City of Edinburgh",2015,"50-64 years",-0.8
+"571","Clackmannanshire",2015,"50-64 years",7.875
+"572","Dumfries and Galloway",2015,"50-64 years",15.6
+"573","Dundee City",2015,"50-64 years",3.3
+"574","East Ayrshire",2015,"50-64 years",10.85
+"575","East Dunbartonshire",2015,"50-64 years",13.6
+"576","East Lothian",2015,"50-64 years",6.925
+"577","East Renfrewshire",2015,"50-64 years",12.5
+"578","Falkirk",2015,"50-64 years",8.875
+"579","Fife",2015,"50-64 years",8.75
+"580","Glasgow City",2015,"50-64 years",9.1
+"581","Highland",2015,"50-64 years",11.4
+"582","Inverclyde",2015,"50-64 years",2.275
+"583","Midlothian",2015,"50-64 years",-2.15
+"584","Moray",2015,"50-64 years",17.125
+"585","Na h-Eileanan Siar",2015,"50-64 years",8.775
+"586","North Ayrshire",2015,"50-64 years",15.575
+"587","North Lanarkshire",2015,"50-64 years",7.875
+"588","Orkney Islands",2015,"50-64 years",8.825
+"589","Perth and Kinross",2015,"50-64 years",11.05
+"590","Renfrewshire",2015,"50-64 years",3.6
+"591","Scottish Borders",2015,"50-64 years",6.4
+"592","Shetland Islands",2015,"50-64 years",4.55
+"593","South Ayrshire",2015,"50-64 years",4
+"594","South Lanarkshire",2015,"50-64 years",14.45
+"595","Stirling",2015,"50-64 years",14.85
+"596","West Dunbartonshire",2015,"50-64 years",2.325
+"597","West Lothian",2015,"50-64 years",12.675
+"598","Aberdeen City",2016,"50-64 years",12
+"599","Aberdeenshire",2016,"50-64 years",15.95
+"600","Angus",2016,"50-64 years",12.6
+"601","Argyll and Bute",2016,"50-64 years",6.975
+"602","City of Edinburgh",2016,"50-64 years",0.25
+"603","Clackmannanshire",2016,"50-64 years",10.975
+"604","Dumfries and Galloway",2016,"50-64 years",19.25
+"605","Dundee City",2016,"50-64 years",8.325
+"606","East Ayrshire",2016,"50-64 years",13.55
+"607","East Dunbartonshire",2016,"50-64 years",12.675
+"608","East Lothian",2016,"50-64 years",1.5
+"609","East Renfrewshire",2016,"50-64 years",12.725
+"610","Falkirk",2016,"50-64 years",8.775
+"611","Fife",2016,"50-64 years",16.525
+"612","Glasgow City",2016,"50-64 years",12.275
+"613","Highland",2016,"50-64 years",7.675
+"614","Inverclyde",2016,"50-64 years",-0.5
+"615","Midlothian",2016,"50-64 years",3.975
+"616","Moray",2016,"50-64 years",14.05
+"617","Na h-Eileanan Siar",2016,"50-64 years",11.275
+"618","North Ayrshire",2016,"50-64 years",23.925
+"619","North Lanarkshire",2016,"50-64 years",14.725
+"620","Orkney Islands",2016,"50-64 years",4.525
+"621","Perth and Kinross",2016,"50-64 years",13.275
+"622","Renfrewshire",2016,"50-64 years",1.475
+"623","Scottish Borders",2016,"50-64 years",9.675
+"624","Shetland Islands",2016,"50-64 years",8.45
+"625","South Ayrshire",2016,"50-64 years",6.175
+"626","South Lanarkshire",2016,"50-64 years",4.95
+"627","Stirling",2016,"50-64 years",14.25
+"628","West Dunbartonshire",2016,"50-64 years",4.375
+"629","West Lothian",2016,"50-64 years",15.275
+"630","Aberdeen City",2017,"50-64 years",-4.65
+"631","Aberdeenshire",2017,"50-64 years",12.15
+"632","Angus",2017,"50-64 years",6.725
+"633","Argyll and Bute",2017,"50-64 years",12.35
+"634","City of Edinburgh",2017,"50-64 years",-1.975
+"635","Clackmannanshire",2017,"50-64 years",7.75
+"636","Dumfries and Galloway",2017,"50-64 years",17.1
+"637","Dundee City",2017,"50-64 years",2.1
+"638","East Ayrshire",2017,"50-64 years",12.675
+"639","East Dunbartonshire",2017,"50-64 years",8.725
+"640","East Lothian",2017,"50-64 years",8.05
+"641","East Renfrewshire",2017,"50-64 years",17.7
+"642","Falkirk",2017,"50-64 years",12.5
+"643","Fife",2017,"50-64 years",14.225
+"644","Glasgow City",2017,"50-64 years",8.15
+"645","Highland",2017,"50-64 years",6.1
+"646","Inverclyde",2017,"50-64 years",-6.85
+"647","Midlothian",2017,"50-64 years",5.75
+"648","Moray",2017,"50-64 years",13.55
+"649","Na h-Eileanan Siar",2017,"50-64 years",9.425
+"650","North Ayrshire",2017,"50-64 years",13.75
+"651","North Lanarkshire",2017,"50-64 years",7.4
+"652","Orkney Islands",2017,"50-64 years",3.775
+"653","Perth and Kinross",2017,"50-64 years",9.725
+"654","Renfrewshire",2017,"50-64 years",4.1
+"655","Scottish Borders",2017,"50-64 years",8.525
+"656","Shetland Islands",2017,"50-64 years",20.4
+"657","South Ayrshire",2017,"50-64 years",4.5
+"658","South Lanarkshire",2017,"50-64 years",9.7
+"659","Stirling",2017,"50-64 years",6.4
+"660","West Dunbartonshire",2017,"50-64 years",2.925
+"661","West Lothian",2017,"50-64 years",7.875
+"662","Aberdeen City",2018,"50-64 years",-1.1
+"663","Aberdeenshire",2018,"50-64 years",12.95
+"664","Angus",2018,"50-64 years",-2.175
+"665","Argyll and Bute",2018,"50-64 years",7.6
+"666","City of Edinburgh",2018,"50-64 years",1
+"667","Clackmannanshire",2018,"50-64 years",11.7
+"668","Dumfries and Galloway",2018,"50-64 years",13.8
+"669","Dundee City",2018,"50-64 years",8.125
+"670","East Ayrshire",2018,"50-64 years",12.5
+"671","East Dunbartonshire",2018,"50-64 years",12.05
+"672","East Lothian",2018,"50-64 years",16.45
+"673","East Renfrewshire",2018,"50-64 years",13.25
+"674","Falkirk",2018,"50-64 years",12.8
+"675","Fife",2018,"50-64 years",6.9
+"676","Glasgow City",2018,"50-64 years",5.25
+"677","Highland",2018,"50-64 years",4.525
+"678","Inverclyde",2018,"50-64 years",-7.325
+"679","Midlothian",2018,"50-64 years",-1.525
+"680","Moray",2018,"50-64 years",14.95
+"681","Na h-Eileanan Siar",2018,"50-64 years",3.125
+"682","North Ayrshire",2018,"50-64 years",12.125
+"683","North Lanarkshire",2018,"50-64 years",6.55
+"684","Orkney Islands",2018,"50-64 years",23.025
+"685","Perth and Kinross",2018,"50-64 years",9.725
+"686","Renfrewshire",2018,"50-64 years",3.375
+"687","Scottish Borders",2018,"50-64 years",11.525
+"688","Shetland Islands",2018,"50-64 years",29.825
+"689","South Ayrshire",2018,"50-64 years",5.575
+"690","South Lanarkshire",2018,"50-64 years",9.575
+"691","Stirling",2018,"50-64 years",10.35
+"692","West Dunbartonshire",2018,"50-64 years",3.6
+"693","West Lothian",2018,"50-64 years",7.4
+"694","Aberdeen City",2019,"50-64 years",3.525
+"695","Aberdeenshire",2019,"50-64 years",15.4
+"696","Angus",2019,"50-64 years",1.85
+"697","Argyll and Bute",2019,"50-64 years",8.025
+"698","City of Edinburgh",2019,"50-64 years",6.55
+"699","Clackmannanshire",2019,"50-64 years",17
+"700","Dumfries and Galloway",2019,"50-64 years",10.25
+"701","Dundee City",2019,"50-64 years",6.225
+"702","East Ayrshire",2019,"50-64 years",8.4
+"703","East Dunbartonshire",2019,"50-64 years",5.3
+"704","East Lothian",2019,"50-64 years",8.45
+"705","East Renfrewshire",2019,"50-64 years",10.375
+"706","Falkirk",2019,"50-64 years",7.3
+"707","Fife",2019,"50-64 years",11.5
+"708","Glasgow City",2019,"50-64 years",1
+"709","Highland",2019,"50-64 years",12.7
+"710","Inverclyde",2019,"50-64 years",-8.225
+"711","Midlothian",2019,"50-64 years",4.05
+"712","Moray",2019,"50-64 years",17.4
+"713","Na h-Eileanan Siar",2019,"50-64 years",0.225
+"714","North Ayrshire",2019,"50-64 years",9.675
+"715","North Lanarkshire",2019,"50-64 years",6.25
+"716","Orkney Islands",2019,"50-64 years",26.425
+"717","Perth and Kinross",2019,"50-64 years",11.425
+"718","Renfrewshire",2019,"50-64 years",8.725
+"719","Scottish Borders",2019,"50-64 years",15.525
+"720","Shetland Islands",2019,"50-64 years",31.95
+"721","South Ayrshire",2019,"50-64 years",7.675
+"722","South Lanarkshire",2019,"50-64 years",7.675
+"723","Stirling",2019,"50-64 years",3.25
+"724","West Dunbartonshire",2019,"50-64 years",4.375
+"725","West Lothian",2019,"50-64 years",16.3
+"726","Aberdeen City",2020,"50-64 years",1.7
+"727","Aberdeenshire",2020,"50-64 years",20.7
+"728","Angus",2020,"50-64 years",11.2
+"729","Argyll and Bute",2020,"50-64 years",4.2
+"730","City of Edinburgh",2020,"50-64 years",3.1
+"731","Clackmannanshire",2020,"50-64 years",9.9
+"732","Dumfries and Galloway",2020,"50-64 years",8.6
+"733","Dundee City",2020,"50-64 years",5.9
+"734","East Ayrshire",2020,"50-64 years",-0.2
+"735","East Dunbartonshire",2020,"50-64 years",2.1
+"736","East Lothian",2020,"50-64 years",15.6
+"737","East Renfrewshire",2020,"50-64 years",9.3
+"738","Falkirk",2020,"50-64 years",5.9
+"739","Fife",2020,"50-64 years",12.9
+"740","Glasgow City",2020,"50-64 years",0.5
+"741","Highland",2020,"50-64 years",14.6
+"742","Inverclyde",2020,"50-64 years",-3.4
+"743","Midlothian",2020,"50-64 years",-0.6
+"744","Moray",2020,"50-64 years",9.8
+"745","Na h-Eileanan Siar",2020,"50-64 years",-4.4
+"746","North Ayrshire",2020,"50-64 years",9.7
+"747","North Lanarkshire",2020,"50-64 years",3.9
+"748","Orkney Islands",2020,"50-64 years",18.9
+"749","Perth and Kinross",2020,"50-64 years",17.6
+"750","Renfrewshire",2020,"50-64 years",8.6
+"751","Scottish Borders",2020,"50-64 years",14.3
+"752","Shetland Islands",2020,"50-64 years",13.1
+"753","South Ayrshire",2020,"50-64 years",7.9
+"754","South Lanarkshire",2020,"50-64 years",16.3
+"755","Stirling",2020,"50-64 years",-3.4
+"756","West Dunbartonshire",2020,"50-64 years",2.6
+"757","West Lothian",2020,"50-64 years",10.6
